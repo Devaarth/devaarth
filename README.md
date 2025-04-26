@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-I am Devaarth Sharma, currently working as a Sr. Technical Specialist with Sony India Software Center and having a total 10+ years of relevant experience. An expert Front-end developer with specialization in Angular, Typescript, JavaScript, HTML5, CSS3, Karma/Jasmine, Figma. Good experience in Problem Solving, Data Structures, Algorithms and System Design. Practices clean code strategies, minimalistic and efficient code writing approaches, Agile methodology implementation using JIRA/VSTS and version management using Git.
+I am Devaarth Sharma, currently working as a Sr. Technical Specialist with Sony India Software Center and having a total 11+ years of relevant experience. An expert Front-end developer with specialization in Angular, Typescript, JavaScript, HTML5, CSS3, Karma/Jasmine, Figma. Good experience in Problem Solving, Data Structures, Algorithms and System Design. Practices clean code strategies, minimalistic and efficient code writing approaches, Agile methodology implementation using JIRA/VSTS and version management using Git.
 
 [![Linkedin Badge](https://img.shields.io/badge/-devaarth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devaarth/)](https://www.linkedin.com/in/devaarth/)
 [![Gmail Badge](https://img.shields.io/badge/-devaarth@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devaarth@gmail.com)](mailto:devaarth@gmail.com)
